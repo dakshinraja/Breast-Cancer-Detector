@@ -40,11 +40,6 @@ https://www.kaggle.com/paultimothymooney/breast-histopathology-images<br>
 Part 1 : Breast Cancer Analyzer + Web App<br>
 https://www.kaggle.com/vbookshelf/part-1-breast-cancer-analyzer-web-app/notebook
 
-Part 2 : Breast Cancer Analyzer + Web App<br>
-https://www.kaggle.com/vbookshelf/part-2-breast-cancer-analyzer-web-app/notebook
-
-
-
 
 The python code to build and train the models is included in the Jupyter notebook. All the javascript, css and html files are also freely available here. The trained models are also available.
 
